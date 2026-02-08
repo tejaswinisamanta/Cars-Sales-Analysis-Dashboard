@@ -1,6 +1,4 @@
 # Cars-Sales-Analysis-Dashboard
-# Cars-Sales-Analysis-Dashboard
-
-This is a brief description of the project.  
-For detailed documentation, refer to the  
-[PDF Documentation](./Car%20Sales%20Analysis%20Dashboard.pdf)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="path/to/image1.png" alt="Image 1" width="200">
+</div>
