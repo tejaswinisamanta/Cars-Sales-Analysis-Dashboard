@@ -9,4 +9,4 @@ text += page.get_text()
 with open(output_path, "w") as md_file:
 md_file.write(text)
 
-pdf_to_markdown("cars .pdf", "README.md")
+pdf_to_markdown("Car Sales Analysis Dashboard.pdf", "README.md")
