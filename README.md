@@ -1,12 +1,4 @@
 # Cars-Sales-Analysis-Dashboard
-import fitz # PyMuPDF
+# Project Title
 
-def pdf_to_markdown(pdf_path, output_path):
-doc = fitz.open(pdf_path)
-text = ""
-for page in doc:
-text += page.get_text()
-with open(output_path, "w") as md_file:
-md_file.write(text)
-
-pdf_to_markdown("Car Sales Analysis Dashboard.pdf", "README.md")
+This is a brief description of the project. For detailed documentation, refer to the [PDF Documentation](./Car Sales Analysis Dashboard.pdf)
